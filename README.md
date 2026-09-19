@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I am Padmasri Murthy
 
-<!--
-**Padma-murthy/Padma-murthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity professional specializing in Privileged Access
+Management, Identity and Access Management, and CyberArk.
 
-Here are some ideas to get you started:
+## Professional Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CyberArk Certified Defender
+- CyberArk Certified Trustee
+- Experience supporting CyberArk PAM implementations
+- Experience onboarding and managing privileged accounts
+- Knowledge of CyberArk safes, platforms, policies, CPM and PSM
+- Experience supporting SOX audit remediation and compliance documentation
+- Graduate student interested in cybersecurity and security governance
+
+## Current Focus
+
+- CyberArk PAM and privileged identity security
+- PowerShell for security automation
+- Zero Trust and Just-in-Time privileged access
+- Security compliance and risk management
+
+## Portfolio Projects
+
+- CyberArk Privileged Account Onboarding Workflow
+- PAM Risk Assessment and Access Review
+- PowerShell Privileged Account Audit Tool
+- Zero Trust and JIT Privileged Access Research
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn URL here
